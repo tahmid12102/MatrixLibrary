@@ -36,7 +36,7 @@ This project is a matrix library that includes the following operations: additio
 
 **Matrix operator+(Matrix, Matrix)** - Addition operator overload.
 
-**Matrix operator*(Matrix, Matrix)** - Multiplication operator overload.
+__Matrix operator*(Matrix, Matrix)__ - Multiplication operator overload.
 
 ### main.cpp
 
